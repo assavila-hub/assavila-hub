@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Alex%20Avila&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20J%C3%BAnior%20%7C%20Full-Stack%20%7C%20Cloud%20%26%20Salesforce%20%7C%20Linux&descAlignY=58&descSize=15" width="100%" alt="Banner Alex Avila" />
+  <img src="./banner.svg" width="100%" alt="Banner Alex Sandro da Silva Avila" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-assav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assav/)
-[![Trailhead](https://img.shields.io/badge/Trailhead-assav-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/assav)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-assav-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/assav/)
+[![Trailhead](https://img.shields.io/badge/☁️_Trailhead-assav-00A1E0?style=for-the-badge)](https://www.salesforce.com/trailblazer/assav)
 [![GitHub](https://img.shields.io/badge/GitHub-assavila--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/assavila-hub)
 [![Portfolio Demo](https://img.shields.io/badge/Live_Demo-ImóvelHUB-0284c7?style=for-the-badge&logo=vercel&logoColor=white)](https://dbimovelhub.vercel.app)
 
